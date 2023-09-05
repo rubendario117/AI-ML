@@ -42,9 +42,7 @@ Foster Collaboration: Encourage collaboration between technical and non-technica
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
+- ]/script]/Finance Model.ipynb
 
 
 ##### Contact and Further Information
